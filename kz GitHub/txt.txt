@@ -1,0 +1,40 @@
+install ffmpeg
+
+
+@Join
+
+
+Ready Commands:	*count	@member	#reasone
+<clear *
+<ban @ * #
+<unban id #
+<kick	@ #
+/calc
+<party
+<help
+<rand
+<invite
+<play	url or name
+
+Not Ready Commands:
+<mute - 
+<order -
+
+Music bot:
+join
+summon
+disconnect leave
+volume
+now current playing np nowplaying
+pause pa
+resume re res
+stop
+skip s
+queue
+history
+shuffle
+remove
+loop
+autoplay
+play p
+search
